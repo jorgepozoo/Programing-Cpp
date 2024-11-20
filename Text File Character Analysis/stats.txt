@@ -1,0 +1,8 @@
+Category                 Count                  Percent
+Alphabetic                   0      -nan(ind)
+Numeric                      0      -nan(ind)
+Control                      0      -nan(ind)
+Upper                        0      -nan(ind)
+Lower                        0      -nan(ind)
+Punctuation                  0      -nan(ind)
+Total                        0
